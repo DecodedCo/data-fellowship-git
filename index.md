@@ -29,4 +29,4 @@
 
 ## Profile Pages
 
-* [Alex's Page](/git-tutorial/alex-walker.html)
+* [Alex's Page](/git-tutorial/alex-walker)

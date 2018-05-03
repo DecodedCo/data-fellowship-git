@@ -6,7 +6,7 @@ Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
 ## Here is a list of my friends and their pages
 
-* [Template](/git-tutorial/template.html) - I know, I'm linking to myself...
+* [Template](/git-tutorial/template) - I know, I'm linking to myself...
 
 ## Interests
 

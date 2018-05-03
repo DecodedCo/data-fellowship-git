@@ -5,7 +5,7 @@ Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
 ## Here is a list of my friends and their pages
 
-* [Alex Walker](/git-tutorial/alex-walker.html) - I know, I'm linking to myself...
+* [Alex Walker](/git-tutorial/alex-walker) - I know, I'm linking to myself...
 
 ## Interests
 
