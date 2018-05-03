@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+show_downloads: false
+title: Let's Learn Git!
+description: Learn git by making yourself a profile page!
