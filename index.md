@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<h1>Welcome to Alex's Site</h1>
-</body>
-</html>
+## Hello World!
+
+This is Alex's demo page!
