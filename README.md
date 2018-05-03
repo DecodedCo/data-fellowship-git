@@ -1,3 +1,3 @@
 ## Demo of a live site on github
 
-sweet front end github hosted applications
+![Visit it here to see it](https://amlwwalker/github.com/git-tutorial)
