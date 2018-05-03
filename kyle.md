@@ -1,6 +1,6 @@
 ## Welcome to Kyles page
 
-* I am friends with [Nicky Kirshen](/git-tutorial/kyle.html)
+* I am friends with [Nicky Kirshen](/git-tutorial/nicky.html)
 
 #### Interests
 
