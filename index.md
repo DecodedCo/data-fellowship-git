@@ -29,4 +29,5 @@
 
 ## Profile Pages
 
+* [Template Page](https://www.amlwwalker.com/git-tutorial/template)
 * [Alex's Page](/git-tutorial/alex-walker)
