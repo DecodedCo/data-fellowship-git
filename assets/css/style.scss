@@ -31,7 +31,6 @@ header {
   font-family: 'Source Sans Pro', sans-serif;
   color: #000000;
   background: rgb(254,246,54);
-  border-bottom: solid 1px #275da1;
 }
 
 header h1 {
@@ -207,7 +206,7 @@ form {
 #main-content h1:before {
   padding-right: 0.3em;
   margin-left: -0.9em;
-  color: #9ddcff;
+  color: #000;
   content: "/";
 }
 
@@ -223,7 +222,7 @@ form {
   padding-right: 0.3em;
   margin-left: -1.5em;
   content: "//";
-  color: #9ddcff;
+  color: #000;
 }
 
 #main-content h3 {
@@ -240,7 +239,7 @@ form {
   padding-right: 0.3em;
   margin-left: -2em;
   content: "///";
-  color: #9ddcff;
+  color: #000;
 }
 
 #main-content h4 {
@@ -256,7 +255,7 @@ h4:before {
   padding-right: 0.3em;
   margin-left: -2.8em;
   content: "////";
-  color: #9ddcff;
+  color: #000;
 }
 
 #main-content h5 {
@@ -270,7 +269,7 @@ h5:before {
   padding-right: 0.3em;
   margin-left: -3.2em;
   content: "/////";
-  color: #9ddcff;
+  color: #000;
 }
 
 #main-content h6 {
