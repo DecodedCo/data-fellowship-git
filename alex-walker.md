@@ -1,7 +1,10 @@
-# Welcome to My Page
+# Welcome to Alex's Page
 
-Hello, I love my job, but I also love my cat. Here is a picture of my cat.
+Hello, I'm a coder and I love my job, but I also love my cat. Here is a picture of my cat.
+
 ![](/git-tutorial/images/cat.jpg)
+
+**AND WHAT A CAT!**
 
 ## Here is a list of my friends and their pages
 
