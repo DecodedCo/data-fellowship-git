@@ -19,7 +19,7 @@
 * Bold is done with `**`**surrounding**`**` the content
 * Headings are done with `#`. You can use up to 5 `#`. 1 is very important, 5 is least important
 * Lists can be done with `*` as bullet points or `1.`, `2.` etc as a numbered list
-* Images can be added with `![description](/images/imagename.jpg/png)`
+* Images can be added with `![description](/git-tutorial/images/imagename.ext)`
 * Links to other pages can be added with `[link text](/filename.html)`
 
 ### Further git reading
