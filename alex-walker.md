@@ -1,7 +1,7 @@
 # Welcome to My Page
 
 Hello, I love my job, but I also love my cat. Here is a picture of my cat.
-![](/images/cat.jpg)
+![](/git-tutorial/images/cat.jpg)
 
 ## Here is a list of my friends and their pages
 
