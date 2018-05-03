@@ -7,6 +7,7 @@
 * You will be adding a link to your page, from the home page
 * You will learn do Pull Requests's on your buddy's work
 * You will learn to handle conflicts in your work
+* You will learn what a diff is, a history, a log, a commit, a push, a conflict, a merge and a pull request
 
 
 ## Little bits of information
