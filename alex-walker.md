@@ -16,6 +16,7 @@ Hello, I'm a coder and I love my job, but I also love my cat. Here is a picture 
 
 ### Endorsements
 
-No one has endorsed me yet 😞. I am waiting for an endorsement.
+I endorse Alex 👋
+Sam Nixon
 
 * still waiting...
