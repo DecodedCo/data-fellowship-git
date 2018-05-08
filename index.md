@@ -29,7 +29,7 @@
 
 ## Profile Pages
 
-* [Template Page](https://www.amlwwalker.com/git-tutorial/template)
-* [Alex's Page](/git-tutorial/alex-walker)
-* [Sam's Page](/git-tutorial/sam)
-* [Walker's Page](/git-tutorial/walker)
+* [Template Page](https://www.amlwwalker.com/data-fellowship-git/template)
+* [Alex's Page](/data-fellowship-git/alex-walker)
+* [Sam's Page](/data-fellowship-git/sam)
+* [Walker's Page](/data-fellowship-git/walker)
