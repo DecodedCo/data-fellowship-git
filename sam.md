@@ -1,4 +1,4 @@
-# Welcome to My Page
+# Welcome to SamN's Profile Page
 
 Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
