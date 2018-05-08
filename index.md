@@ -21,6 +21,8 @@
 * Lists can be done with `*` as bullet points or `1.`, `2.` etc as a numbered list
 * Images can be added with `![description](/git-tutorial/images/imagename.ext)`
 * Links to other pages can be added with `[link text](/filename.html)`
+* A handy guide to how to write the flavour of markdown that Github likes - https://guides.github.com/features/mastering-markdown/
+
 
 ### Further git reading
 
