@@ -31,4 +31,5 @@
 
 * [Template Page](https://www.amlwwalker.com/git-tutorial/template)
 * [Alex's Page](/git-tutorial/alex-walker)
+* [Sam's Page](/git-tutorial/sam)
 * [Walker's Page](/git-tutorial/walker)
