@@ -2,12 +2,12 @@
 
 Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
-![](/data-fellowship-git/images/covalent-bond.jpg)
+![](https://goo.gl/images/io8gvu)
 
 ## Here is a list of my friends and their pages
 
-* [Template](/data-fellowship-git/rob.md) - I know, I'm linking to myself...
-* [Anda] (/data-fellowship-git/rob.md) - Anda sits next to me
+* [Template](/data-fellowship-git/rob) - I know, I'm linking to myself...
+* [Template](/data-fellowship-git/anda) - Anda is sitting next to me
 
 ## Interests
 
