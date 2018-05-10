@@ -34,7 +34,9 @@
 * [Template Page](https://www.amlwwalker.com/data-fellowship-git/template)
 * [Alex's Page](/data-fellowship-git/alex-walker)
 * [Agi's Page](/data-fellowship-git/agi)
-* [Dan N's Page](/data-fellowship-git/noonan)
+* [Anatevka's page](/data-fellowship-git/Anatevka)
 * [Walker's Page](/data-fellowship-git/walker)
 * [Daniel's Page](/data-fellowship-git/DanielS)
 * [Rob's Page](/data-fellowship-git/rob)
+* [Dan N's Page](/data-fellowship-git/noonan)
+
