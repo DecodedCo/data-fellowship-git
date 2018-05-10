@@ -1,5 +1,7 @@
 # Welcome to Walker's Page
 
+Changes from the command line!
+
 Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
 ![](/data-fellowship-git/images/covalent-bond.jpg)
