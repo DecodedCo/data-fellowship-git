@@ -39,3 +39,10 @@
 * [Walker's Page](/data-fellowship-git/walker)
 * [Daniel's Page](/data-fellowship-git/DanielS)
 * [Anda's Page](/data-fellowship-git/Anda)
+* [Agi's Page](/data-fellowship-git/agi)
+* [Dee's Page](/data-fellowship-git/Dee)
+* [Anatevka's page](/data-fellowship-git/Anatevka)
+* [Walker's Page](/data-fellowship-git/walker)
+* [Daniel's Page](/data-fellowship-git/DanielS)
+* [Rob's Page](/data-fellowship-git/rob)
+* [Dan N's Page](/data-fellowship-git/noonan
