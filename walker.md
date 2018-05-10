@@ -1,4 +1,4 @@
-# Welcome to My Page
+# Welcome to Walker's Page
 
 Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
@@ -6,11 +6,14 @@ Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
 ## Here is a list of my friends and their pages
 
-* [Template](/data-fellowship-git/template) - I know, I'm linking to myself...
+
+
+* I have no friends.
 
 ## Interests
 
-* cats
+* sunny days
+* bbqs
 
 ### Endorsements
 
