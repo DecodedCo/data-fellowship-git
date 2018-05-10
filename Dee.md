@@ -1,16 +1,19 @@
-# Welcome to My Page
+# Welcome to Dee's page
 
 Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
 ![](/data-fellowship-git/images/covalent-bond.jpg)
 
-## Here is a list of my friends and their pages
+# Here is a list of my friends and their pages
 
 * [Template](/data-fellowship-git/template) - I know, I'm linking to myself...
 
 ## Interests
 
-* cats
+* food & drink
+
+
+
 
 ### Endorsements
 
