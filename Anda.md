@@ -1,16 +1,16 @@
-# Welcome to My Page
+# Welcome to Anda's page
 
-Hello, I love my job, but I also love my cat. Here is a picture of my cat.
+Hi Data fellows
 
 ![](/data-fellowship-git/images/covalent-bond.jpg)
 
-## Here is a list of my friends and their pages
+## Here is a list of my friends
 
-* [Template](/data-fellowship-git/template) - I know, I'm linking to myself...
+* none available at the moment
 
 ## Interests
 
-* cats
+* yoga
 
 ### Endorsements
 
