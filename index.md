@@ -36,4 +36,7 @@
 * [Rob's Page](/data-fellowship-git/rob)
 * [Walker's Page](/data-fellowship-git/walker)
 * [Daniel's Page](/data-fellowship-git/DanielS)
+* [Dan N's Page](/data-fellowship-git/noonan)
+* [Walker's Page](/data-fellowship-git/walker)
+* [Daniel's Page](/data-fellowship-git/DanielS)
 
