@@ -1,8 +1,6 @@
-# Welcome to My Page
+# Welcome to Daniel's page
 
-Hello, I love my job, but I also love my cat. Here is a picture of my cat.
-
-![](/data-fellowship-git/images/covalent-bond.jpg)
+Hello, I love my job, but I also love football. But I'm rubbish playing it so you won't see any picture of me!
 
 ## Here is a list of my friends and their pages
 
@@ -10,7 +8,8 @@ Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
 ## Interests
 
-* cats
+* football
+* economics
 
 ### Endorsements
 
