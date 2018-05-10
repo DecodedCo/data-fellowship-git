@@ -1,16 +1,16 @@
-# Welcome to My Page
+# Welcome to Anatevka's pages
 
-Hello, I love my job, but I also love my cat. Here is a picture of my cat.
+Hello, I love my job, but I also love my cat. Here is a drawing of my bat.
 
-![](/data-fellowship-git/images/covalent-bond.jpg)
 
-## Here is a list of my friends and their pages
 
-* [Template](/data-fellowship-git/template) - I know, I'm linking to myself...
+## Here is a list of my relatives and their pages
+
+* [Template](/data-fellowship-git/template) - they look really ugly no?
 
 ## Interests
 
-* cats
+* swimming and dancing
 
 ### Endorsements
 
