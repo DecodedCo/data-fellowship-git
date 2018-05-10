@@ -1,8 +1,8 @@
-# Welcome to My Page
+# Daniel N
 
 Hello, I love my job, but I also love mountains. Here is a picture of my favourite mountain.
 
-![](/data-fellowship-git/images/covalent-bond.jpg)
+![](https://cdn.photographylife.com/wp-content/uploads/2017/08/Matterhorn_170607_072.jpg)
 
 ## Here is a list of my friends and their pages
 
@@ -12,11 +12,12 @@ Hello, I love my job, but I also love mountains. Here is a picture of my favouri
 
 * photography
 * mountaineering
+* fun
 
 ### Endorsements
 
-No one has endorsed me yet 😞. I am waiting for an endorsement.
+Mum and Dad
 
 * still waiting...
 
-### hello
+### ciao!
