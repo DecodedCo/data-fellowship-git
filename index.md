@@ -34,3 +34,6 @@
 * [Template Page](https://www.amlwwalker.com/data-fellowship-git/template)
 * [Alex's Page](/data-fellowship-git/alex-walker)
 * [Dee's Page](/data-fellowship-git/Dee)
+* [Walker's Page](/data-fellowship-git/walker)
+* [Daniel's Page](/data-fellowship-git/DanielS)
+
