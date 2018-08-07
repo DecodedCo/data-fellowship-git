@@ -1,8 +1,12 @@
-# Jonas likes git
+# Welcome to Sam Nixon's Page
 
-Hello, I love my job, but I also love my cat. Here is a picture of my cat.
+Hello, I love my job, but I also love my dogs.
 
-![](/data-fellowship-git/images/covalent-bond.jpg)
+Here is a picture of my cat.
+
+![](/data-fellowship-git/images/cat.jpg)
+
+![](/data-fellowship-git/images/catvdog.jpg)
 
 ## Here is a list of my friends and their pages
 
@@ -10,7 +14,9 @@ Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
 ## Interests
 
+* data
 * cats
+* dogs
 
 ### Endorsements
 

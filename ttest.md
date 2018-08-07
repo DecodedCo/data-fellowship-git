@@ -1,8 +1,8 @@
-# Jonas likes git
+# Welcome to My Page
 
-Hello, I love my job, but I also love my cat. Here is a picture of my cat.
+Hello, I love my job, but I also love my cat. Here is a picture of my cat(ish)
 
-![](/data-fellowship-git/images/covalent-bond.jpg)
+![Much funnier image](http://timidmonster.com/wp-content/uploads/2012/07/360ja4-300x300.jpg)
 
 ## Here is a list of my friends and their pages
 
@@ -10,7 +10,7 @@ Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
 ## Interests
 
-* cats
+* Ducks
 
 ### Endorsements
 

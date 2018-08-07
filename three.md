@@ -1,4 +1,4 @@
-# Jonas likes git
+# Welcome to My Page One
 
 Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 

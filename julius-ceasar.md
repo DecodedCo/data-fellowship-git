@@ -1,6 +1,6 @@
-# Jonas likes git
+# Welcome to Julius-Ceasar's Mandate
 
-Hello, I love my job, but I also love my cat. Here is a picture of my cat.
+Hello, I love straight roads, fighting arena's and orgies
 
 ![](/data-fellowship-git/images/covalent-bond.jpg)
 
@@ -10,10 +10,10 @@ Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
 ## Interests
 
-* cats
+* butterflies
 
 ### Endorsements
 
-No one has endorsed me yet 😞. I am waiting for an endorsement.
+No one has murdered me yet 😞. beware the ides of march
 
 * still waiting...
