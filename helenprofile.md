@@ -1,19 +1,18 @@
 # Welcome to My Page
 
-Hello, I love my job, but I also love my cat. Here is a picture of my cat.
+I'm learning to use git and coding for the first time ever! Scary and fun!
 
-![](/data-fellowship-git/images/covalent-bond.jpg)
 
 ## Here is a list of my friends and their pages
 
-* [Template](/data-fellowship-git/template) - I know, I'm linking to myself...
+* [Template](/data-fellowship-git/helenprofile.md) - I know, I'm linking to myself...
 
 ## Interests
 
-* cats
+* anything not tech related
 
 ### Endorsements
 
 No one has endorsed me yet 😞. I am waiting for an endorsement.
 
-* still waiting...
+* I have no friends
