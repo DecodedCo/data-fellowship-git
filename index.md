@@ -31,5 +31,5 @@
 
 ## Profile Pages
 
-* [Template Page](https://www.amlwwalker.com/data-fellowship-git/template)
+* [Template Page](/data-fellowship-git/template)
 * [Alex's Page](/data-fellowship-git/alex-walker)
