@@ -1,19 +1,19 @@
-# Welcome to My Page
+# You've been... THUNDERSTRUCK!
 
-Hello, I love my job, but I also love my cat. Here is a picture of my cat.
+Hello, my name is AC/DC. Yes, the whole band. I like riding on the highway to hell, shooting (to thrill) and of course being shaken... **all** night long!
 
-![](/data-fellowship-git/images/covalent-bond.jpg)
+![](/data-fellowship-git/images/lightning_1.jpg)
 
-## Here is a list of my friends and their pages
+## THUNDER
 
 * [Template](/data-fellowship-git/template) - I know, I'm linking to myself...
 
-## Interests
+## THUNDER
 
 * cats
 
-### Endorsements
+That's right. Thundercats. You heard.
 
-No one has endorsed me yet 😞. I am waiting for an endorsement.
+### THUNDER
 
-* still waiting...
+-guitar widdling-
