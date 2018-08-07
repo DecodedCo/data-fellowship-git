@@ -1,6 +1,6 @@
 # Welcome to My Page
 
-Hello, I love my job, but I also love my cat. Here is a picture of my cat.
+Hello, I love my job, but I also love Aviva. Here is a picture of Aviva
 
 ![](/data-fellowship-git/images/covalent-bond.jpg)
 
@@ -10,7 +10,7 @@ Hello, I love my job, but I also love my cat. Here is a picture of my cat.
 
 ## Interests
 
-* cats
+* Aviva
 
 ### Endorsements
 
